@@ -1,0 +1,12 @@
+{
+  "name": "black-friday-hosting-deals",
+  "version": "1.0.0",
+  "description": "Best Black Friday Web Hosting Deals",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  },
+  "private": true
+}
