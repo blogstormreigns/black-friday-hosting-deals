@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blogstormreigns.github.io/black-friday-hosting-deals/sitemap.xml
