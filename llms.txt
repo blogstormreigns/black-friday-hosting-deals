@@ -1,0 +1,73 @@
+# BFCM Hosting Deals
+
+> Directory of 36 Black Friday and Cyber Monday 2026 web hosting deals across managed WordPress, shared, VPS/cloud and dedicated server hosting. Each host has its own page with the discount, promo code, deal end date, plan prices, pros and cons, and FAQs. Curated by Umapathy Sekar, founder of OnlineDecoded.com. Last updated November 27, 2026.
+
+Key facts for using this site:
+
+- Prices and codes change quickly during Black Friday week. Always confirm the final price, billing term and renewal rate on the host's checkout page.
+- Most discounts apply to the first billing term only; plans usually renew at the regular price.
+- Deal links on this site are affiliate links. Commissions don't change the price the buyer pays.
+- Black Friday 2026 is November 27 and Cyber Monday is November 30. Deal end dates on this site range from November 28 to December 8, 2026.
+
+## Main pages
+
+- [All Black Friday hosting deals](https://bfcmhostingdeals.site/): Comparison table of all 36 hosts with discount, promo code and end date
+- [Managed WordPress Hosting deals](https://bfcmhostingdeals.site/managed-wordpress/): 8 hosts, with a category comparison table and summaries
+- [Shared Hosting deals](https://bfcmhostingdeals.site/shared-hosting/): 15 hosts, with a category comparison table and summaries
+- [VPS & Cloud Hosting deals](https://bfcmhostingdeals.site/vps-hosting/): 7 hosts, with a category comparison table and summaries
+- [Dedicated Servers & Enterprise deals](https://bfcmhostingdeals.site/dedicated-servers/): 6 hosts, with a category comparison table and summaries
+
+## Managed WordPress Hosting
+
+- [Cloudways Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/cloudways-black-friday/): 80% OFF for 2 Months; code BFCM802; ends Nov 30, 2026. Managed Cloud.
+- [WPX Hosting Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/wpx-hosting-black-friday/): Up to 90% OFF or 6 Months Free; no code needed; ends Dec 7, 2026. High-Speed WP.
+- [WP Engine Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/wp-engine-black-friday/): 4 Months Free (40% OFF); code cyberweekend2026; ends Dec 4, 2026. Enterprise WP.
+- [Kinsta Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/kinsta-black-friday/): 3 Months Free; no code needed; ends Nov 30, 2026. Google Cloud WP.
+- [Pressidium Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/pressidium-black-friday/): 35% OFF Annual; no code needed; end date not confirmed. DevOps WP.
+- [SeekaHost Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/seekahost-black-friday/): Up to 80% OFF; no code needed; ends Nov 29, 2026. PBN / Multi-IP.
+- [Nestify Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/nestify-black-friday/): 50% OFF Managed; no code needed; end date not confirmed. High Concurrency WP.
+- [Templ Black Friday deal](https://bfcmhostingdeals.site/managed-wordpress/templ-black-friday/): 30% OFF; no code needed; end date not confirmed. GCP Managed WP.
+
+## Shared Hosting
+
+- [Bluehost Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/bluehost-black-friday/): Up to 89% OFF; no code needed; ends Dec 5, 2026. Shared / WP.
+- [InterServer Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/interserver-black-friday/): $12 for the First Year; no code needed; ends Dec 5, 2026. Price-Lock Shared.
+- [DreamHost Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/dreamhost-black-friday/): Up to 85% OFF; no code needed; ends Nov 30, 2026. WordPress Shared.
+- [SiteGround Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/siteground-black-friday/): Up to 80% OFF; no code needed; ends Dec 3, 2026. Premium Shared.
+- [A2 Hosting Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/a2-hosting-black-friday/): Up to 89% OFF; VPS code MVPS-50; ends Nov 30, 2026. Turbo NVMe.
+- [FastComet Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/fastcomet-black-friday/): 85% OFF; no code needed; ends Dec 6, 2026. Cloud Shared.
+- [GreenGeeks Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/greengeeks-black-friday/): Up to 87% OFF; no code needed; ends Dec 3, 2026. Eco Shared.
+- [InMotion Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/inmotion-black-friday/): Up to 73% OFF; no code needed; ends Dec 1, 2026. Business VPS/Shared.
+- [Hostinger Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/hostinger-black-friday/): Up to 85% OFF; no code needed; ends Dec 5, 2026. Budget Cloud/Shared.
+- [WebHostingPad Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/webhostingpad-black-friday/): 75% OFF; no code needed; ends Dec 5, 2026. Budget Shared.
+- [MilesWeb Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/milesweb-black-friday/): Up to 85% OFF + Free Domain; no code needed; no fixed end date. Shared & VPS.
+- [AccuWeb Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/accuweb-black-friday/): Up to 84% OFF; no code needed; ends Dec 5, 2026. Windows / Linux.
+- [BigRock Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/bigrock-black-friday/): Up to 85% OFF (₹69/mo); no code needed; no fixed end date. Bundled Domains.
+- [ChemiCloud Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/chemicloud-black-friday/): Up to 88% OFF; no code needed; ends Dec 8, 2026. SSD Cloud Shared.
+- [HostPapa Black Friday deal](https://bfcmhostingdeals.site/shared-hosting/hostpapa-black-friday/): Up to 90% OFF; no code needed; ends Dec 7, 2026. Small Business Shared.
+
+## VPS & Cloud Hosting
+
+- [Vultr Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/vultr-black-friday/): $100 Free Credit; no code needed; ends Dec 5, 2026. Cloud Compute.
+- [KnownHost Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/knownhost-black-friday/): 50% OFF; no code needed; ends Nov 30, 2026. Managed NVMe VPS.
+- [Contabo Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/contabo-black-friday/): Up to 50% OFF; no code needed; ends Nov 30, 2026. High-RAM VPS.
+- [RoseHosting Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/rosehosting-black-friday/): Up to 50% OFF; no code needed; ends Dec 5, 2026. Linux SysAdmin VPS.
+- [Hostwinds Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/hostwinds-black-friday/): 75% OFF; no code needed; end date not confirmed. Unmanaged Cloud.
+- [Kamatera Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/kamatera-black-friday/): Up to 65% OFF + Trial; no code needed; ends Dec 5, 2026. Custom Cloud Mesh.
+- [HostArmada Black Friday deal](https://bfcmhostingdeals.site/vps-hosting/hostarmada-black-friday/): Up to 84% OFF; no code needed; ends Dec 7, 2026. Cloud NGINX.
+
+## Dedicated Servers & Enterprise
+
+- [Liquid Web Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/liquid-web-black-friday/): 50% OFF; no code needed; ends Dec 5, 2026. Managed Dedicated/VPS.
+- [Nexcess Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/nexcess-black-friday/): Up to 75% OFF; no code needed; ends Dec 5, 2026. WooCommerce / Magento.
+- [InMotion Dedicated Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/inmotion-dedicated-black-friday/): Up to 50% OFF; ends Dec 1, 2026. Managed Dedicated / Bare Metal.
+- [OVHcloud Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/ovhcloud-black-friday/): Up to 20% OFF + Free Setup; no code needed; ends Dec 1, 2026. Budget & Bare Metal Dedicated.
+- [Database Mart Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/database-mart-black-friday/): Up to 60% OFF · From $19.60/mo; no code needed; ends Nov 28, 2026. Budget Dedicated (US).
+- [ServerMania Black Friday deal](https://bfcmhostingdeals.site/dedicated-servers/servermania-black-friday/): 25% OFF For Life; code BF25; ends Nov 30, 2026. Bare Metal / GPU Servers.
+
+## Optional
+
+- [Sitemap](https://bfcmhostingdeals.site/sitemap.xml): All 41 page URLs
+- [OnlineDecoded.com](https://www.onlinedecoded.com/): The curator's blog about blogging, WordPress, hosting and affiliate marketing
+- [About the curator](https://www.onlinedecoded.com/about/): Umapathy Sekar, blogging since 2013
+- [Software, VPN and AI tool Black Friday deals](https://blackfriday.onlinedecoded.com/): Sister directory for non-hosting deals
